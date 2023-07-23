@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://icons8.com/color/48/000000/dot-net/">
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
