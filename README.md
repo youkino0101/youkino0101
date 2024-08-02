@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a full-stack .NET developer.
+- ✍ I'm a Back-end .NET developer.
 
 <br />
 
